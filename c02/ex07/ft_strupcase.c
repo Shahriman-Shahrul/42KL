@@ -10,9 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
-
-char	*ft_strumpcase(char *str)
+char	*ft_strupcase(char *str)
 {
 	int i;
 
